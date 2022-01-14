@@ -1,0 +1,18 @@
+{
+    "name": "wssto2/cms-foundation",
+    "type": "library",
+    "homepage": "https://github.com/wssto2/cms-foundation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josip Žlimen",
+            "email": "josip@sto2.hr"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "Sto2\\CmsFoundation\\": "src/"
+    }
+}
